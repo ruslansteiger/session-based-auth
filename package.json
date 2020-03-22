@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc19",
+    "core-js": "^2.6.10",
+    "graphql-tag": "^2.10.3",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.6",
+    "vue-server-renderer": "^2.6.6",
+    "vue-template-compiler": "^2.6.6"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}
